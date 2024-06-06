@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:VULANztNik3IiPFS@altow-cargo.sg0tyg2.mongodb.net/?retryWrites=true&w=majority&appName=altow-cargo",
+    "secretKey" : "mern-secret-key"
+}
